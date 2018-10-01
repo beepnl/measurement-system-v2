@@ -22,7 +22,7 @@ The 2D drawings in both Illustrator format and DXF (required by most milling par
 
 
 ### Stainless steel
-The 3D and 2D drawings of the stainless steel tube, and the sensor bracket are in this folder. They can be ordered by companies lasering steel.
+The 3D and 2D drawings of the stainless steel tube, and the sensor bracket are in this folder. They can be ordered at companies lasering steel.
 
 ## Improvements
 If you have improvements, or ideas for creating a better frame, please send an e-mail to pim@beep.nl explaining your thoughts. Or just fork this repo, and do a pull request with you adjustments, or additions.
