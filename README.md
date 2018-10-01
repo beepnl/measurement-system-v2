@@ -12,8 +12,8 @@ This is a picture of the milling software, with which we mill 42 pieces (21 tops
 
 ![BEEP measurement system - Milling process](https://github.com/beepnl/measurement-system/raw/master/3d-freesplaat-244x122-time.png)
 
-## Drawings
-The folder 'drawings' contains two folders: wood and stainless steel. 
+## Frame
+The folder 'frame' contains two folders: wood and stainless steel. 
 
 ### Wood
 The 2D drawings in both Illustrator format and DXF (required by most milling parties).
@@ -23,6 +23,27 @@ The 2D drawings in both Illustrator format and DXF (required by most milling par
 
 ### Stainless steel
 The 3D and 2D drawings of the stainless steel tube, and the sensor bracket are in this folder. They can be ordered by companies lasering steel.
+
+## Electronics
+The electronics of the measurement system are bundled together on the Beep PCB, which connects an Arduino, a LoRa (wireless network) chip and the sensors via Grove connectors together.
+
+The folder 'electronics' contains two folders: gerber and kicad.
+
+With the Gerber files, you can directly order a PCB. It contains all files required for the manufacturing of the PCB. 
+
+With the Kicad files, you can edit the PCB and it's components in the open source PCB creation software Kicad (http://kicad-pcb.org/).
+
+### Schematic
+The schematic can be found in the PDF (https://github.com/beepnl/measurement-system/raw/master/electronics/Beep-pcb-v1.4-schematic.pdf)
+
+### PCB
+![BEEP measurement system - PCB](https://github.com/beepnl/measurement-system/raw/master/electronics/Beep-PCB-component-holder.png)
+
+### Assembly
+![BEEP measurement system - PCB](https://github.com/beepnl/measurement-system/raw/master/electronics/Beep-PCB-v1.4-assembled.png)
+
+![BEEP measurement system - PCB](https://github.com/beepnl/measurement-system/raw/master/electronics/Beep-PCB-v1.4-in-casing.jpg)
+
 
 ## Improvements
 If you have improvements, or ideas for creating a better frame, please send an e-mail to pim@beep.nl explaining your thoughts. Or just fork this repo, and do a pull request with you adjustments, or additions.

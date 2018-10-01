@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Nexus
+D Ideetron Nexus LoRa low power
+K LoRa, Nexus
+F https://webshop.ideetron.nl/Nexus
+$ENDCMP
+#
+#End Doc Library

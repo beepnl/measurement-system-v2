@@ -1,0 +1,9 @@
+(sym_lib_table
+  (lib (name Symbols)(type Legacy)(uri "/Users/pim/Dropbox (Personal)/Werk/BEEP/Beep work/hardware/PCB design/Untitled/PCB_BEEP/Symbols.lib")(options "")(descr ""))
+  (lib (name Beep)(type Legacy)(uri ${KIPRJMOD}/Beep.lib)(options "")(descr ""))
+  (lib (name Iconize)(type Legacy)(uri ${KIPRJMOD}/Iconize.lib)(options "")(descr ""))
+  (lib (name Nexus)(type Legacy)(uri ${KIPRJMOD}/Nexus.lib)(options "")(descr ""))
+  (lib (name PCB_BEEP-cache)(type Legacy)(uri ${KIPRJMOD}/PCB_BEEP-cache.lib)(options "")(descr ""))
+  (lib (name Whisper_Node_AVR)(type Legacy)(uri "${KIPRJMOD}/Whisper Node AVR.lib")(options "")(descr ""))
+  (lib (name Whisper_node_AVR)(type Legacy)(uri ${KIPRJMOD}/Whisper_node_AVR.lib)(options "")(descr ""))
+)

@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "Whisper Lora")(type KiCad)(uri "${KIPRJMOD}/Whisper Lora.pretty")(options "")(descr ""))
+  (lib (name HX711)(type KiCad)(uri ${KIPRJMOD}/HX711.pretty)(options "")(descr ""))
+  (lib (name Nexus)(type KiCad)(uri ${KIPRJMOD}/Nexus.pretty)(options "")(descr ""))
+  (lib (name Jumper)(type KiCad)(uri ${KIPRJMOD}/Jumper.pretty)(options "")(descr ""))
+  (lib (name Dragino)(type KiCad)(uri ${KIPRJMOD}/Dragino.pretty)(options "")(descr ""))
+)
