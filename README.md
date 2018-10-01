@@ -22,7 +22,7 @@ The 2D drawings in both Illustrator format and DXF (required by most milling par
 
 
 ### Stainless steel
-The 3D and 2D drawings of the stainless steel tube, and the sensor bracket are in this folder. They can be ordered by companies lasering steel.
+The 3D and 2D drawings of the stainless steel tube, and the sensor bracket are in this folder. They can be ordered at companies lasering steel.
 
 ## Electronics
 The electronics of the measurement system are bundled together on the Beep PCB, which connects an Arduino, a LoRa (wireless network) chip and the sensors via Grove connectors together.
