@@ -1,12 +1,11 @@
 # BEEP - Measurement system
-This is a repo containing the drawings to create the open source hardware for the Beep measurement system.
+This is a repo containing the files to create the open source hardware for the Beep measurement system.
 
 ## Measurement system parts
 
 The measurement system casing is designed as both an electonics/sensor housing, as well as a weighing frame. The outer casing is assembled in four pieces (2 tops, 2 bottoms) out of 18mm thick plate 'Betonplex' (glued multiplex with water resistant top and bottom layer). The wooden top and bottom are connected together by the 2 weight sensor (aluminium) blocks, held in place by 2 weight sensor brackets each. The left and right part are held together with 2 stainless steel tubes, that are screwed on the wood. At one side tightly, using wood parkers, at the other side loosely, using m4 bolts that go inside the inserts. By this connection, the total size of the frame is adjustable for different types of hives. 
 
 ![BEEP measurement system casing](https://github.com/beepnl/measurement-system/raw/master/Beep-measurement-system-parts.png)
-
 
 
 ## Frame
@@ -47,6 +46,12 @@ The schematic can be found in the PDF (https://github.com/beepnl/measurement-sys
 
 ![BEEP measurement system - PCB](https://github.com/beepnl/measurement-system/raw/master/electronics/Beep-PCB-v1.4-in-casing.jpg)
 
+
+## Firmware
+In the 'firmware' folder, the ultra low power Arduino code is shared to use with the PCB and complete the measurement system.
+
+Place the folder 'Beep-low-power' inside your Arduino folder and set up your own LoRa connection details to send the data.
+Send an e-mail to pim@beep.nl, to add your Measurement system Device EUI to your Beep app account and receive it's measurements in the app.
 
 
 ## Improvements
