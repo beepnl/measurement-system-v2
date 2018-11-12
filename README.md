@@ -36,6 +36,9 @@ With the Gerber files, you can directly order a PCB. It contains all files requi
 With the Kicad files, you can edit the PCB and it's components in the open source PCB creation software Kicad (http://kicad-pcb.org/).
 
 ### Schematic
+
+*NB: There is an error in the PCB, the one wire temperature sensor DS18b20 cannot work on analog port A7 (the A6 and A7 IO pins can only be used as analog pins, not as digital IO). So you have to use A4, or A5 to connect one wire sensor(s) to. So you also have to add the 4k7 resistor between V+ and the one wire data pin yourself, since the resistor on the PCB is connected to V+ and A7.*
+
 The schematic can be found in the PDF (https://github.com/beepnl/measurement-system/raw/master/electronics/Beep-pcb-v1.4-schematic.pdf)
 
 ### PCB

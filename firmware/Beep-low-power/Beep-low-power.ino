@@ -87,7 +87,7 @@
 #define CLK_BACK 4
 
 // One wire temp DS18B20
-#define ONEW A7
+#define ONEW A4
 
 /******************************************************************************************
                   GLOBAL VARIABLES
