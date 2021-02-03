@@ -5,7 +5,7 @@ This is a repo containing the files to create the open source hardware for the B
 
 The measurement system casing is designed as both an electonics/sensor housing, as well as a weighing frame. The outer casing is assembled in four pieces (2 tops, 2 bottoms) out of 18mm thick plate 'Betonplex' (glued multiplex with water resistant top and bottom layer). The wooden top and bottom are connected together by the 2 weight sensor (aluminium) blocks, held in place by 2 weight sensor brackets each. The left and right part are held together with 2 stainless steel tubes, that are screwed on the wood. At one side tightly, using wood parkers, at the other side loosely, using m4 bolts that go inside the inserts. By this connection, the total size of the frame is adjustable for different types of hives. 
 
-![BEEP measurement system casing](https://github.com/beepnl/measurement-system/blob/master/Beep-measurement-system-parts.png)
+![BEEP measurement system casing](https://github.com/beepnl/measurement-system-v2/blob/master/Beep-measurement-system-parts.png)
 
 
 ## Frame
