@@ -14,16 +14,16 @@ The folder 'frame' contains two folders: wood and stainless steel.
 ### Wood
 The 2D drawings in both Illustrator format and DXF (required by most milling parties).
 
-![BEEP measurement system casing - Milling instruction](https://github.com/beepnl/measurement-system/blob/master/frame/wood/Beep-Frame-milling-instruction.png)
+![BEEP measurement system casing - Milling instruction](https://github.com/beepnl/measurement-system-v2/blob/master/frame/wood/Beep-Frame-milling-instruction.png)
 
 This is a picture of the milling software, with which we mill 42 pieces (21 tops, 21 bottoms) out of an 2440 x 1220 x 18 mm Betonplex.
 
-![BEEP measurement system - Milling process](https://github.com/beepnl/measurement-system/blob/master/frame/wood/3d-freesplaat-244x122-time.png)
+![BEEP measurement system - Milling process](https://github.com/beepnl/measurement-system-v2/blob/master/frame/wood/3d-freesplaat-244x122-time.png)
 
 ### Stainless steel
 The 3D and 2D drawings of the stainless steel tube, and the sensor bracket are in this folder. They can be ordered at companies lasering steel.
 
-![BEEP measurement system - Stainless steel parts](https://github.com/beepnl/measurement-system/blob/master/frame/stainless-steel/Beep-stainless-steel-parts.png)
+![BEEP measurement system - Stainless steel parts](https://github.com/beepnl/measurement-system-v2/blob/master/frame/stainless-steel/Beep-stainless-steel-parts.png)
 
 
 ## Electronics
@@ -39,15 +39,15 @@ With the Kicad files, you can edit the PCB and it's components in the open sourc
 
 *NB: There is an error in the PCB, the one wire temperature sensor DS18b20 cannot work on analog port A7 (the A6 and A7 IO pins can only be used as analog pins, not as digital IO). So you have to use A4, or A5 to connect one wire sensor(s) to. So you also have to add the 4k7 resistor between V+ and the one wire data pin yourself, since the resistor on the PCB is connected to V+ and A7.*
 
-The schematic can be found in the PDF (https://github.com/beepnl/measurement-system/blob/master/electronics/Beep-pcb-v1.4-schematic.pdf)
+The schematic can be found in the PDF (https://github.com/beepnl/measurement-system-v2/blob/master/electronics/Beep-pcb-v1.4-schematic.pdf)
 
 ### PCB
-![BEEP measurement system - PCB](https://github.com/beepnl/measurement-system/blob/master/electronics/Beep-PCB-component-holder.png)
+![BEEP measurement system - PCB](https://github.com/beepnl/measurement-system-v2/blob/master/electronics/Beep-PCB-component-holder.png)
 
 ### Assembly
-![BEEP measurement system - PCB](https://github.com/beepnl/measurement-system/blob/master/electronics/Beep-PCB-v1.4-assembled.png)
+![BEEP measurement system - PCB](https://github.com/beepnl/measurement-system-v2/blob/master/electronics/Beep-PCB-v1.4-assembled.png)
 
-![BEEP measurement system - PCB](https://github.com/beepnl/measurement-system/blob/master/electronics/Beep-PCB-v1.4-in-casing.jpg)
+![BEEP measurement system - PCB](https://github.com/beepnl/measurement-system-v2/blob/master/electronics/Beep-PCB-v1.4-in-casing.jpg)
 
 
 ## Firmware
