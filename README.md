@@ -33,7 +33,7 @@ The folder 'electronics' contains two folders: gerber and kicad.
 
 With the Gerber files, you can directly order a PCB. It contains all files required for the manufacturing of the PCB. 
 
-With the Kicad files, you can edit the PCB and it's components in the open source PCB creation software Kicad (http://kicad-pcb.org/).
+With the Kicad files, you can edit the PCB and it's components in the open source PCB creation software Kicad (http://kicad.org/).
 
 ### Schematic
 
